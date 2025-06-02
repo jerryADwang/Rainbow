@@ -1,0 +1,15 @@
+1. Jb Hifi for style https://www.jbhifi.com.au/
+
+2. Paypal official button for the paypal button https://www.paypal.com/buttons/smart?flowloggingId=f7440723b8455
+
+3. Da Zhong Dian Ping for style https://www.dianping.com/
+
+4. Google maps api for google maps  https://developers.google.com/maps/documentation/javascript
+
+5. Obtain user location and mark it into Goodle maps https://medium.com/risan/track-users-location-and-display-it-on-google-maps-41d1f850786e
+ 
+6. Obtain user address https://developers.google.com/maps/documentation/javascript/examples/geocoding-reverse
+
+7. Using chart within Echarts https://echarts.apache.org/zh/index.html
+
+8. Drag and drop https://seegatesite.com/how-to-use-jquery-input-file-change-event/

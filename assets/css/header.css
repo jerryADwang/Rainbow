@@ -1,0 +1,57 @@
+body{
+    background-color: #e5e9cb;
+}
+
+.navbar {
+    height:5em;
+    background-color: #A4B4D4;
+}
+
+.navbar-brand {
+    color: #F1F1E7;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+}
+
+.navbar-brand:hover {
+    color:#A57C63;
+}
+
+
+#nav-search-bar{
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    width: 35rem;
+    height: 3rem;
+}
+
+.navbar-choice {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+}
+
+.navbar-choice a {
+    color:#F1F1E7;
+    font-weight: 600;
+}
+
+.navbar-choice a:hover {
+    color:#A57C63;
+}
+
+input[name='searchtext'] {
+    width: 500px;
+}
+
+
+#searchimage img{
+    width: 20rem;
+    height: 15rem;
+}
+
+
+

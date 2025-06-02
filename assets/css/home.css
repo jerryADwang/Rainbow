@@ -1,0 +1,45 @@
+.shop_collection img{
+    height: 20rem;
+    border:1px solid black;
+    width:21rem;
+}
+
+.shop_collection {
+    width: 90rem;
+}
+
+.container{
+    word-spacing: 0rem;
+}
+
+
+.bookmark{
+   text-align: right;
+   
+}
+
+.bookmark a{
+    font-size:1.5rem;
+}
+
+
+.shopcontent{
+    /* padding-left: 9rem; */
+    font-size: 0.75rem;
+}
+
+.comment{
+    text-align: right;
+    word-spacing: 0.1rem;
+    font-size:1rem;
+    font-weight:600;
+}
+
+h3{
+    margin: 0;
+}
+
+.rating i{
+    font-size:0.5rem;
+}
+

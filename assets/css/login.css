@@ -1,0 +1,41 @@
+
+h2{
+    color: #749477;
+    font-size: 3rem;
+    letter-spacing: 0.3rem;
+}
+
+#login-button{
+    background-color:#E7A579;
+    font-size:1rem;
+    font-weight:500;
+    word-spacing:0.05rem;
+}
+
+#login-button:hover{
+    background-color:#8fac99;
+    color:black;
+}
+
+.clearfix {
+    font-size: 1.1rem;
+}
+
+.logincreatspearte{
+    border-top: 1px solid #949a9e;
+    position: relative;
+    margin-top: 4.72%;
+    height: 15px;
+    text-align: center;
+}
+
+.textspearte {
+    background-color: #e5e9cb;
+    padding: 0 0.5em;
+    position: relative;
+    color: #6c7378;
+    top: -0.8em;
+}
+
+
+

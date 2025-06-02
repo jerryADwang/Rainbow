@@ -1,0 +1,99 @@
+
+
+
+h1 {
+    color:#79924A;
+    font-size: 5rem;;
+    margin-top: 3rem;
+    padding-bottom:0.75rem;
+    font-weight: 400;
+    font-family: "DomCasualStdBold", "Roboto", sans-serif;
+}
+
+.profile {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color:black;
+    word-spacing:0.75rem;
+}
+.details{
+    background-color:#E4D1A0;
+    border-radius:1%;
+    width:80rem;
+}
+#userimage img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    
+}
+
+/* #emailname{
+    border-radius:2%;
+    background-color:#E4D1A0;
+} */
+
+#choose-file{
+    width: 25rem;
+    height: 3.75rem;
+}
+#upload{
+    height: 2.62rem;
+}
+
+#email{
+    font-size:1.8rem;
+    color:white;
+}
+
+#location{
+    font-size:1.8rem;
+    color:white;
+    word-spacing: 0rem;;
+}
+
+#location :hover{
+    text-decoration: none;
+}
+
+#username {
+    color:white;
+    font-weight:700;
+    font-size:2rem;
+}
+
+#contact_detail{
+    font-size:1.75rem;
+}
+
+#contact_detail hr{
+    font-size:1.75rem;
+}
+
+.email_changing{
+    color: #749477;
+    font-size: 1.25rem;
+    letter-spacing: 0.05rem;
+}
+
+
+.membership {
+    background-color: #748859;
+    font-size:1.75rem;
+    font-weight:700;
+    position: relative;
+    display: inline;
+    margin: 0 1px 1px 0;
+    padding: 0 7px;
+    color: #ffffff;
+    border: 1px solid #000000;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    box-shadow: 1px 1px 0 0 #000000;
+    white-space: nowrap;
+    font-family: "DomCasualStdBold", "Roboto", sans-serif;
+}
+
+
+
+

@@ -1,0 +1,38 @@
+.change-email h2{
+    font-size: 2rem;
+    text-align: center;
+    color: 628954;
+    padding-top:5rem;
+    margin-top: 5rem;
+
+}
+
+.change-email{
+    background-color: #B9D7A7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #628954;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    z-index:999999;
+    border-radius:2%;
+}
+
+#closebutton{
+    font-weight:600;
+    font-size:1.1rem;
+    width:10rem;
+    margin-right:2.75rem;
+}
+#savebutton{
+    font-weight:600;
+    font-size:1.1rem;
+    width:10rem;
+}
+
+.button{
+    display:flex;
+
+}
+

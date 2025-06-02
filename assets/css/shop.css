@@ -1,0 +1,111 @@
+
+
+
+
+
+
+.container {
+    border-radius:1%;
+}
+
+#shopimage img{
+    width: 18rem;
+    height: 18rem;
+    border:1px solid black;
+}
+
+.shopname h2{
+    text-transform: uppercase;
+}
+
+.shopname h3{
+    text-transform: uppercase;
+}
+
+.shopname h4{
+    margin-top: 1rem;
+}
+
+.shopname h5{
+    margin-top: 1rem;
+}
+
+h6{
+    font-size:1.5rem;
+    margin-top:1.5rem;
+    font-weight:600;
+    word-spacing:0.1rem;
+    padding-left:5.25rem;
+}
+
+.commenttop{
+    border-bottom:1px red solid;
+    font-size:2rem;
+    display:flex;
+}
+
+#commentimage{
+    padding:0;
+    padding-left:2.25rem;
+}
+
+#commentimage img{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+.commentright {
+    padding-left:2rem;
+    font-size:1rem;
+    font-weight:500;
+}
+.content{
+    padding:0;
+    padding-left:0.75rem;
+    word-spacing:0rem;
+    max-width: 100%;
+}
+.content p{
+    margin:0;
+    font-size:1rem;
+    word-wrap:break-word；
+
+}
+
+.commentbottom{
+    height:10rem;
+}
+
+#comment-search-bar{
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    width:14rem;
+    height: 2.5rem;
+}
+
+#comment{
+    height:10rem;
+}
+
+.shopbookmark{
+    padding-left: 7rem;
+    padding-top:1rem;
+    font-size: 2rem;;
+}
+.commentsample {
+    border-bottom: 1px solid black;
+}
+
+.wishlist {
+    padding-top: 8rem;
+}
+
+.menu img{
+    width: 13rem;
+    height: 13rem;
+}
+
+.menu{
+    word-wrap: break-word;
+}
+
